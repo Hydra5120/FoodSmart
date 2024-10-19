@@ -1,4 +1,4 @@
-# Welcome to Foodsmart
+# Welcome to FoodSmart
 
 Discover an interactive way to find meal suggestions based on your preferences, needs, and the ingredients you already have. Skip the hassle of expensive grocery runs and overwhelming recipe searches. With **Foodsmart**, you get:
 
